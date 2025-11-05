@@ -39,7 +39,7 @@ class MainView:
 
         title_label = tk.Label(
             title_frame,
-            text="🧠 ConvertKeylogApp v2.2",
+            text="🧮 ConvertKeylogApp v2.2",
             font=("Segoe UI", 18, "bold"),
             bg="#4A90E2",
             fg="white",
